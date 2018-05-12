@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/293
     wikipedia: http://en.wikipedia.org/wiki/Charles_Lamb
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14129#The-Works-of-Charles-Lamb-in-Four-Volumes-Volume-4
 gutenberg_issued: '2004-11-23'
 gutenberg_type: Text
 identifiers:
